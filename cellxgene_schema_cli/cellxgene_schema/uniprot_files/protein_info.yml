@@ -1,19 +1,19 @@
 human:
   description: homo_sapiens
-  url: https://rest.uniprot.org/uniprotkb/stream?compressed=true&fields=accession%2Clength%2Cgene_primary%2Cgene_synonym%2Cprotein_name%2Ccc_subcellular_location&format=tsv&query=%28*%29+AND+%28organism_id%3A9606%29
+  url: https://rest.uniprot.org/uniprotkb/stream?compressed=true&fields=accession%2Creviewed%2Clength%2Cgene_primary%2Cgene_synonym%2Cannotation_score%2Cprotein_name%2Ccc_subcellular_location&format=tsv&query=%28*%29+AND+%28organism_id%3A9606%29
   
 scervisiae:
   description: saccharomyces_cerevisiae
-  url: https://rest.uniprot.org/uniprotkb/stream?compressed=true&fields=accession%2Clength%2Cgene_primary%2Cgene_synonym%2Cprotein_name%2Ccc_subcellular_location&format=tsv&query=%28*%29+AND+%28organism_id%3A559292%29
+  url: https://rest.uniprot.org/uniprotkb/stream?compressed=true&fields=accession%2Creviewed%2Clength%2Cgene_primary%2Cgene_synonym%2Cannotation_score%2Cprotein_name%2Ccc_subcellular_location&format=tsv&query=%28*%29+AND+%28organism_id%3A559292%29
 
 mouse:
   description: mus_musculus
-  url: https://rest.uniprot.org/uniprotkb/stream?compressed=true&fields=accession%2Clength%2Cgene_primary%2Cgene_synonym%2Cprotein_name%2Ccc_subcellular_location&format=tsv&query=%28*%29+AND+%28organism_id%3A10090%29
+  url: https://rest.uniprot.org/uniprotkb/stream?compressed=true&fields=accession%2Creviewed%2Clength%2Cgene_primary%2Cgene_synonym%2Cannotation_score%2Cprotein_name%2Ccc_subcellular_location&format=tsv&query=%28*%29+AND+%28organism_id%3A10090%29
 
 rat:
   description: rattus_norvegicus
-  url: https://rest.uniprot.org/uniprotkb/stream?compressed=true&fields=accession%2Clength%2Cgene_primary%2Cgene_synonym%2Cprotein_name%2Ccc_subcellular_location&format=tsv&query=%28*%29+AND+%28organism_id%3A10116%29
+  url: https://rest.uniprot.org/uniprotkb/stream?compressed=true&fields=accession%2Creviewed%2Clength%2Cgene_primary%2Cgene_synonym%2Cannotation_score%2Cprotein_name%2Ccc_subcellular_location&format=tsv&query=%28*%29+AND+%28organism_id%3A10116%29
 
 fruit_fly:
   description: drosophila_melanogaster
-  url: https://rest.uniprot.org/uniprotkb/stream?compressed=true&fields=accession%2Clength%2Cgene_primary%2Cgene_synonym%2Cprotein_name%2Ccc_subcellular_location&format=tsv&query=%28*%29+AND+%28organism_id%3A7227%29
+  url: https://rest.uniprot.org/uniprotkb/stream?compressed=true&fields=accession%2Creviewed%2Clength%2Cgene_primary%2Cgene_synonym%2Cannotation_score%2Cprotein_name%2Ccc_subcellular_location&format=tsv&query=%28*%29+AND+%28organism_id%3A7227%29

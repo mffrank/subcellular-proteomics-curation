@@ -7,6 +7,6 @@ numpy<3
 pandas>2,<3
 PyYAML<7
 requests
-scipy<1.15
+scipy<1.16
 semver<4
 xxhash<4
