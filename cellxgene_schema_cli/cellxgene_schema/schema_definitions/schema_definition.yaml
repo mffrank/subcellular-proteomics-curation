@@ -128,6 +128,7 @@ components:
           - "BioID"
           - "Detergent separation"
           - "Density-gradient centrifugation"
+          - "Differential centrifugation"
           - "COLA"
           - "dLOPIT"
           - "DIA-LOP"
